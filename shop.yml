@@ -1,3 +1,4 @@
 data:
   test: shop-default
   SECRETE_KEY: tj705team
+  KAFKAIP: 172.18.0.101
